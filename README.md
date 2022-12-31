@@ -1,2 +1,2 @@
 free
-ls
+cd file
