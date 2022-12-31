@@ -1,1 +1,2 @@
-exit!
+type: free command
+ls
