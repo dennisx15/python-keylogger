@@ -1,1 +1,1 @@
-useless.PNG
+useless
