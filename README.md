@@ -1,2 +1,1 @@
-free
-cd file
+screenshot
